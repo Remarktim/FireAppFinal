@@ -276,6 +276,10 @@ body[data-background-color="dark"] .demo-icon .icon-class {
 	background-color: #f1f1f1;
 }
 
+#li{
+	list-style-type: none;
+}
+
 @media screen and (max-width: 550px){
 	.table-typo tr td{
 		display: flex;
@@ -303,3 +307,4 @@ body[data-background-color="dark"] .demo-icon .icon-class {
 		right: -85%;
 	}
 }
+
